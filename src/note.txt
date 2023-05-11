@@ -1,0 +1,10 @@
+1. Component
+- header 
+- footer
+- viewcontact  // id should be gven in order to identify the particular 
+- editcontact
+- addcontact
+- allcontact
+
+* to navigate according to components , use router outlet selector in appcomponent.html
+* error - 404 --
